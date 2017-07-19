@@ -31,7 +31,7 @@ function doPost(e) {
         }
 
         // Replace with your token
-        var API_TOKEN = '297019760:AAFbL7yMus67Qv5Xu6fQ7VB93Jq4dkVaGP4';
+        var API_TOKEN = '418869373:AAGiTLDyHqqq1nZHSqQgkJHMuq2miUwlMD4';
         UrlFetchApp.fetch('https://api.telegram.org/bot' + API_TOKEN + '/', data);
       }
     }
